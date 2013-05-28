@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin
-    xmlns="http://www.phonegap.com/ns/plugins/1.0"
-    id="org.woodward.plugger"
-    version="0.0.1">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="org.woodward.plugger" version="0.0.1">
   
   <name>
     The Famous Plugger
   </name>
-  
-  <desription>
-    This most famous of plugger plugins does an excellent job of providing
-    the resource necessary to test the new feature of user submitted plugins to PhoneGap Build, Adobe's
-    cloud based service for building mobile applications utilizing html, css and javascript.  Wow.
-  </description>
 
 </plugin>
