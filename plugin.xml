@@ -4,9 +4,9 @@
     id="org.woodward.plugger"
     version="0.0.1">
   
-  <name>
+  <namer>
     The Famous Plugger
-  </name>
+  </namer>
   
   <description>
     This most famous of plugger plugins does an excellent job of providing
